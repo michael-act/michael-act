@@ -1,11 +1,6 @@
-### Hi Technology Activist 👋
-
-![github stats](https://github-readme-stats.vercel.app/api?username=michael-act&show_icons=true)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-act">
-
-- 🔭 I’m currently working on my personal projects, community. You can check <a href="https://www.instagram.com/do.exploit/">Do Exploit</a>.
-- ⚡ Excited to share knowledge through writing
-- 🌱 I’m currently learning Scripting Language, Data Mining and related Linux Server Administration
-- 😄 I'm natively speak Indonesian and basic understanding English
-- 📫 You can reach me at michael.4ct@gmail.com
+<a href="https://github.com/michael-act">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michael-act&hide_border=true&theme=nightowl" />
+</a>
+<a href="https://github.com/michael-act">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michael-act&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</a>
